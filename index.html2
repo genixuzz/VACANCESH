@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Itinerario de 7 días por Europa</title>
+</head>
+<body>
+
+    <h1>Itinerario de 7 días por Europa en Interrail</h1>
+
+    <h2>Día 1: Madrid, España</h2>
+    <p>Alojamiento: Room007 Chueca Hostel - 30€/noche.</p>
+    <p>Comida:</p>
+    <ul>
+        <li>Desayuno: Café de Oriente - Tostada y café (5€).</li>
+        <li>Almuerzo: El Tigre - Menú del día (12€).</li>
+        <li>Cena: Mercado de San Miguel - Variadas tapas (15€).</li>
+    </ul>
+    <p>Visitas:</p>
+    <ul>
+        <li>Museo del Prado (10:00 - 20:00) - 15€.</li>
+        <li>Parque del Retiro (20:00 - 22:00) - gratis.</li>
+    </ul>
+    <p>Total día: 72€.</p>
+
+    <h2>Día 2: Barcelona, España</h2>
+    <p>Transporte: Tren de Madrid a Barcelona (3 horas) - 30€.</p>
+    <p>Alojamiento: Kabul Party Hostel - 30€/noche.</p>
+    <p>Comida:</p>
+    <ul>
+        <li>Desayuno: Chök - Churros con chocolate (5€).</li>
+        <li>Almuerzo: El Quim de la Boqueria - Bocadillo (10€).</li>
+        <li>Cena: La Focacceria - Pizza (12€).</li>
+    </ul>
+    <p>Visitas:</p>
+    <ul>
+        <li>Sagrada Familia (9:00 - 18:00) - 26€.</li>
+        <li>Parque Güell (18:30 - 20:00) - 10€.</li>
+    </ul>
+    <p>Total día: 121€.</p>
+
+    <h2>Día 3: París, Francia</h2>
+    <p>Transporte: Tren de Barcelona a París (6 horas) - 50€.</p>
+    <p>Alojamiento: Generator Paris - 35€/noche.</p>
+    <p>Comida:</p>
+    <ul>
+        <li>Desayuno: Le Pain de Sucre - Croissant (3€).</li>
+        <li>Almuerzo: Le Consulat - Crêpes (8€).</li>
+        <li>Cena: Le Relais de l'Entrecôte - Menú (15€).</li>
+    </ul>
+    <p>Visitas:</p>
+    <ul>
+        <li>Torre Eiffel (10:00 - 12:00) - 25€.</li>
+        <li>Museo del Louvre (14:00 - 18:00) - 17€.</li>
+    </ul>
+    <p>Total día: 103€.</p>
+
+    <h2>Día 4: Bruselas, Bélgica</h2>
+    <p>Transporte: Tren de París a Bruselas (1.5 horas) - 30€.</p>
+    <p>Alojamiento: MEININGER Hotel Brussels City Center - 40€/noche.</p>
+    <p>Comida:</p>
+    <ul>
+        <li>Desayuno: Maison Antoine - Gofre (6€).</li>
+        <li>Almuerzo: Chez Léon - Mejillones con papas fritas (15€).</li>
+        <li>Cena: Brasserie Cantillon - Cerveza y bretzel (10€).</li>
+    </ul>
+    <p>Visitas:</p>
+    <ul>
+        <li>Grand Place (10:00 - 12:00) - gratis.</li>
+        <li>Atomium (14:00 - 16:00) - 16€.</li>
+    </ul>
+    <p>Total día: 77€.</p>
+
+    <h2>Día 5: Ámsterdam, Países Bajos</h2>
+    <p>Transporte: Tren de Bruselas a Ámsterdam (2 horas) - 30€.</p>
+    <p>Alojamiento: ClinkNOORD - 40€/noche.</p>
+    <p>Comida:</p>
+    <ul>
+        <li>Desayuno: Pancakes Amsterdam - Panqueques (7€).</li>
+        <li>Almuerzo: Café de Jaren - Bitterballen (10€).</li>
+        <li>Cena: Foodhallen - Stroopwafels y snacks (8€).</li>
+    </ul>
+    <p>Visitas:</p>
+    <ul>
+        <li>Museo Van Gogh (10:00 - 17:00) - 19€.</li>
+        <li>Canales de Ámsterdam (18:00 - 20:00) - gratis.</li>
+    </ul>
+    <p>Total día: 84€.</p>
+
+    <h2>Día 6: Berlín, Alemania</h2>
+    <p>Transporte: Tren de Ámsterdam a Berlín (6 horas) - 50€.</p>
+    <p>Alojamiento: Sophie’s Hostel - 30€/noche.</p>
+    <p>Comida:</p>
+    <ul>
+        <li>Desayuno: Silo Coffee - Café y bagel (5€).</li>
+        <li>Almuerzo: Curry 36 - Currywurst (10€).</li>
+        <li>Cena: Kreuzberg - Restaurante alemán (15€).</li>
+    </ul>
+    <p>Visitas:</p>
+    <ul>
+        <li>Puerta de Brandeburgo (10:00 - 12:00) - gratis.</li>
+        <li>Museo de Pérgamo (14:00 - 17:00) - 12€.</li>
+    </ul>
+    <p>Total día: 82€.</p>
+
+    <h2>Día 7: Praga, República Checa</h2>
+    <p>Transporte: Tren de Berlín a Praga (4.5 horas) - 40€.</p>
+    <p>Alojamiento: Czech Inn Hostel - 25€/noche.</p>
+    <p>Comida:</p>
+    <ul>
+        <li>Desayuno: Café Louvre - Pastel checo y café (5€).</li>
+        <li>Almuerzo: Lokál - Goulash (10€).</li>
+        <li>Cena: U Fleků - Cervecería local (12€).</li>
+    </ul>
+    <p>Visitas:</p>
+    <ul>
+        <li>Castillo de Praga (10:00 - 13:00) - 12€.</li>
+        <li>Pont de Carlos (14:00 - 16:00) - gratis.</li>
+    </ul>
+    <p>Total día: 69€.</p>
+
+    <h2>Resumen de gastos:</h2>
+    <p>Alojamientos: 210€.</p>
+    <p>Comidas: 203€.</p>
+    <p>Transportes: 260€.</p>
+    <p>Visitas: 111€.</p>
+    <p>Total: 784€.</p>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m64!1m12!1m3!1d10618014.93800417!2d-1.6297700191846691!3d46.23812797790868!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m49!3e0!4m5!1s0x12a4bc9a4ff1b4b3%3A0x8b8561bd1892bad2!2sSanta%20Rosa%2C%20Santa%20Coloma%20de%20Gramenet!3m2!1d41.4467765!2d2.2155697!4m5!1s0x12a4a257ee73e08d%3A0x24053a99de18bd87!2sKabul%20Party%20Hostel%2C%20Pl.%20Reial%2C%2017%2C%20Ciutat%20Vella%2C%2008002%20Barcelona!3m2!1d41.379681399999996!2d2.1752178!4m5!1s0xd422888a0c5ea2b%3A0x9f8a1f4ba5e58d3e!2sroom00%20Chueca%20Hostel%2C%20Calle%20de%20Hortaleza%2C%20Madrid!3m2!1d40.4233009!2d-3.6988284!4m5!1s0x47e66ddf9e632015%3A0x11f9c963dbcf7d6f!2sGenerator%20Paris%2C%209-11%20Pl.%20du%20Colonel%20Fabien%2C%2075010%20Paris%2C%20Fran%C3%A7a!3m2!1d48.878247599999995!2d2.3696032!4m5!1s0x47c3c38bc8f50f41%3A0x35d52e894dfa5be!2sMEININGER%20Hotel%20Bruxelles%20City%20Center%2C%20Quai%20du%20Hainaut%2033%2C%201080%20Bruxelles%2C%20B%C3%A8lgica!3m2!1d50.851560299999996!2d4.3388991!4m5!1s0x47c609b479c2a511%3A0x8ec26296745e0267!2sClinkNOORD%2C%20Badhuiskade%203%2C%201031%20KV%20Amsterdam%2C%20Pa%C3%AFsos%20Baixos!3m2!1d52.384227499999994!2d4.9037391!4m5!1s0x470b948c819031ab%3A0xd213cc4912a1d4f1!2sSophie&#39;s%20Hostel%2C%20Melounova%202%2C%20120%2000%20Nov%C3%A9%20M%C4%9Bsto%2C%20Tx%C3%A8quia!3m2!1d50.0751184!2d14.4270765!4m5!1s0x12a4bc87d8dda1f5%3A0x62a5c003c7b27b8!2sSanta%20Coloma%20de%20Gramanet!3m2!1d41.450873699999995!2d2.2110648999999998!5e1!3m2!1sca!2ses!4v1727692085831!5m2!1sca!2ses" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</body>
+</html>
